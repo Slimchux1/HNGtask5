@@ -136,13 +136,13 @@ top: 40px;
 
  }
 }
-#stud,#tech{
+#stud {
     -webkit-text-fill-color: black;
     font-size: 20px;
     margin-top: 50px;
 }
 @media (max-width:840px){
-    #stud, #tech {
+    #stud {
        padding: 0px
  }
 }
